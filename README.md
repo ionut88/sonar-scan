@@ -13,7 +13,7 @@ I have teste also on Angular, React & Vue.js projects
 
 # Installation
 
-This plugin requires JAVA runtime installed
+This plugin requires JAVA 11 installed
 
 You can install sonar-scan as a development dependency and add it as a script property in your package.json.
 
