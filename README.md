@@ -3,6 +3,14 @@ sonar-scan
 
 Wrap [SonarQube Scanner](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner) as a node module.
 
+I have teste also on Angular, React & Vue.js projects
+
+# Versions
+|  version | [sonar-scanner-cli](https://mvnrepository.com/artifact/org.sonarsource.scanner.cli/sonar-scanner-cli) |
+|----------|-----------------------|
+|   1.0.0  |    3.1.0.1141         |
+|   latest |    4.8.0.2856         |
+
 # Installation
 
 This plugin requires JAVA runtime installed
@@ -13,10 +21,19 @@ You can install sonar-scan as a development dependency and add it as a script pr
 npm i sonar-scan --save-dev
 ```     
 
+Node:
 ```json
 {
   "scripts": {
     "sonar-scan": "node_modules/sonar-scan/bin/sonar-scanner"
+  }
+}
+```
+Angular, React & Vue.js projects:
+```json
+{
+  "scripts": {
+    "sonar-scan": "sonar-scanner"
   }
 }
 ```
