@@ -45,4 +45,4 @@ npm run sonar-scan
 
 https://github.com/bcaudan/node-sonar-scanner
 
-This library is not updated currentlly for a few years but we need & support it
+This library is not updated for a few years but we need & support it
