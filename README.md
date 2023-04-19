@@ -1,24 +1,24 @@
-node-sonar-scanner
+sonar-scan
 ==================
 
 Wrap [SonarQube Scanner](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner) as a node module.
 
 # Installation
 
-You can install node-sonar-scanner as a development dependency and add it as a script property in your package.json.
+You can install sonar-scan as a development dependency and add it as a script property in your package.json.
 
 ```shell
-npm i sonar-scanner --save-dev
+npm i sonar-scan --save-dev
 ```     
 
 ```json
 {
   "scripts": {
-    "sonar-scanner": "node_modules/sonar-scanner/bin/sonar-scanner"
+    "sonar-scan": "node_modules/sonar-scan/bin/sonar-scanner"
   }
 }
 ```
 
 ```shell
-npm run sonar-scanner
+npm run sonar-scan
 ```     
