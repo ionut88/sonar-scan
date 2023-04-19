@@ -1,7 +1,7 @@
 {
   "name": "sonar-scan",
-  "version": "0.0.1",
-  "description": "Wrap sonar-scanner as a node module",
+  "version": "1.0.0",
+  "description": "Wrap sonar-scan as a node module",
   "keywords": [
     "node",
     "sonar",
@@ -9,7 +9,7 @@
   ],
   "main": "index.js",
   "bin": {
-    "sonar-scan": "index.js"
+    "sonar-scanner": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
