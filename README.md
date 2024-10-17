@@ -9,7 +9,8 @@ I have teste also on Angular, React & Vue.js projects
 |  version | [sonar-scanner-cli](https://mvnrepository.com/artifact/org.sonarsource.scanner.cli/sonar-scanner-cli) |
 |----------|-----------------------|
 |   1.0.0  |    3.1.0.1141         |
-|   latest |    4.8.0.2856         |
+|   1.0.1  |    4.8.0.2856         |
+|   latest |    6.2.1.4610         |
 
 # Installation
 
