@@ -1,7 +1,7 @@
 sonar-scan
 ==================
 
-Wrap [SonarQube Scanner](https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner) as a node module.
+Wrap [SonarQube Scanner](https://docs.sonarqube.org) as a node module.
 
 I have teste also on Angular, React & Vue.js projects
 
