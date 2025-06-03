@@ -10,7 +10,8 @@ I have teste also on Angular, React & Vue.js projects
 |----------|-----------------------|
 |   1.0.0  |    3.1.0.1141         |
 |   1.0.1  |    4.8.0.2856         |
-|   latest |    6.2.1.4610         |
+|   1.0.2  |    6.2.1.4610         |
+|   latest |    7.1.0.4889   	     |
 
 # Installation
 
