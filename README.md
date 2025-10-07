@@ -8,11 +8,13 @@ I have teste also on Angular, React & Vue.js projects
 # Versions
 |  version | [sonar-scanner-cli](https://mvnrepository.com/artifact/org.sonarsource.scanner.cli/sonar-scanner-cli) |
 |----------|-----------------------|
-|   1.0.0  |    3.1.0.1141         |
-|   1.0.1  |    4.8.0.2856         |
-|   1.0.2  |    6.2.1.4610         |
+|   latest |    7.3.0.5189   	     |
+|   1.0.5  |    7.2.0.5079   	     |
 |   1.0.4  |    7.1.0.4889   	     |
-|   latest |    7.2.0.5079   	     |
+|   1.0.2  |    6.2.1.4610         |
+|   1.0.1  |    4.8.0.2856         |
+|   1.0.0  |    3.1.0.1141         |
+
 
 # Installation
 
