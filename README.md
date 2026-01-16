@@ -6,11 +6,12 @@ Wrap [SonarQube Scanner](https://docs.sonarqube.org) as a node module.
 I have teste also on Angular, React & Vue.js projects
 
 # Versions
-|  version | [sonar-scanner-cli](https://mvnrepository.com/artifact/org.sonarsource.scanner.cli/sonar-scanner-cli) |
-|----------|-----------------------|
-|   latest |    8.0.0.6341   	     |
-|   1.0.6  |    7.3.0.5189   	     |
-|   1.0.5  |    7.2.0.5079   	     |
+|  version | [sonar-scanner-cli](https://mvnrepository.com/artifact/org.sonarsource.scanner.cli/sonar-scanner-cli) | JAVA |
+|----------|-----------------------|--------------|
+|   1.0.8  |    8.0.1.6346   	     |    17    |
+|   1.0.7  |    8.0.0.6341   	     |    17    |
+|   1.0.6  |    7.3.0.5189   	     |    11    |
+|   1.0.5  |    7.2.0.5079   	     |    11    |
 
 
 # Installation
