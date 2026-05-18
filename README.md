@@ -8,6 +8,7 @@ I have teste also on Angular, React & Vue.js projects
 # Versions
 |  version | [sonar-scanner-cli](https://mvnrepository.com/artifact/org.sonarsource.scanner.cli/sonar-scanner-cli) | JAVA |
 |----------|-----------------------|--------------|
+|   1.0.9  |    8.1.0.6389   	     |    17    |
 |   1.0.8  |    8.0.1.6346   	     |    17    |
 |   1.0.7  |    8.0.0.6341   	     |    17    |
 |   1.0.6  |    7.3.0.5189   	     |    11    |
